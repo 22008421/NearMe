@@ -182,17 +182,17 @@ The main objectives of Pudukkottai Government Higher Secondary School are
 
 
 ## Output:
-![Output](./screenshots/out 1.png)
+![Output](./screenshots/out1.png)
 
-![Output](./screenshots/out 2.png)
+![Output](./screenshots/out2.png)
 
-![Output](./screenshots/out 3.png)
+![Output](./screenshots/out3.png)
 
-![Output](./screenshots/out 4.png)
+![Output](./screenshots/out4.png)
 
-![Output](./screenshots/out 5.png)
+![Output](./screenshots/out5.png)
 
-![Output](./screenshots/out 6.png)
+![Output](./screenshots/out6.png)
 
 ## HTML Validator
 ![HTML Validator](./screenshots/valid.png)
